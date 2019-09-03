@@ -12,4 +12,6 @@ int main(){
 		numero=numero/10;
 	}
 	cout<<"El numero invertido es: "<<invertir;
+	
+	return 0;
 }
