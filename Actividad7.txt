@@ -1,0 +1,23 @@
+//primer algoritmo
+
+s=initialize
+datos en la pila: 1,2,3,4
+while(no hemos llegado al segundo elemento)
+     quita el elemento leido y lee el proximo
+     if(se encontro el elemento){
+     lee, lo alamacena en una variable y quita el elemento de la pila
+     }
+dejar elementos sobrantes en la pila
+mostrar segundo elemeto    
+     
+//tercer algoritmo
+
+s=initialize
+datos en la pila: 1,2,3,4
+while(no hemos llegado al ultimo elemento)
+     quita el elemento leido y lee el proximo
+     if(se encontro el elemento){
+     lee, lo alamacena en una variable y quita e elemento de la pila 
+     }
+dejar pila vacia
+ mostrar ultimo elemento
