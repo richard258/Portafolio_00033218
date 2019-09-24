@@ -1,0 +1,15 @@
+convertir de notacion infija a postfija
+
+1)A-B/(C*D$E)
+2)((A+B)*C-(D-E))$(F+G)
+
+1)A-B/(C*D$E)
+  A-B/(C*DE$)
+  A-B/(CDE$*)
+  A-B(CDE$*)/
+  ABCDE$*/-
+  
+2)((A+B)*C-(D-E))$(F+G)
+  ((AB+)*C-(DE-))$(FG+)
+  (AB+C*DE--)$(FG+)
+  AB+C*DE--FG+$
